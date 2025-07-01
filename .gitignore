@@ -1,0 +1,40 @@
+# ✅ Python 기본
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+
+# ✅ 가상환경
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# ✅ Jupyter 체크포인트
+.ipynb_checkpoints/
+
+
+# ✅ VS Code 설정
+.vscode/
+*.code-workspace
+
+
+# ✅ 데이터/모델 (너무 크거나 민감한 경우)
+data/
+models/
+
+# ✅ 환경 변수 파일
+.env
+
+# ✅ 파이썬 빌드
+build/
+dist/
+*.egg-info/
+
+# ✅ OS별 파일
+.DS_Store
+Thumbs.db
